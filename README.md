@@ -1,2 +1,2 @@
-# Caesare-encryption-decryption
+# Caesar-encryption-decryption
 This repository contains a Caeser decryption and encryption program.
